@@ -1,0 +1,25 @@
+{
+  "name": "vainglory-heros",
+  "version": "0.0.1",
+  "description": "Hero infos for Vainglory",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pchw/vainglory-heros.git"
+  },
+  "keywords": [
+    "vainglory"
+  ],
+  "author": "pchw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pchw/vainglory-heros/issues"
+  },
+  "homepage": "https://github.com/pchw/vainglory-heros",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
