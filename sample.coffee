@@ -1,6 +1,6 @@
-vaingloryHeros = require './index.js'
+vaingloryData = require './index.js'
 
-{heros, abilities} = vaingloryHeros
+{heros, abilities} = vaingloryData
 
 console.log heros[0]
 ###

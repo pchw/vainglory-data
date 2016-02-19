@@ -1,14 +1,14 @@
 {
-  "name": "vainglory-heros",
+  "name": "vainglory-data",
   "version": "0.0.1",
-  "description": "Hero infos for Vainglory",
+  "description": "Vainglory Data provides heros, abilities, items info.",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pchw/vainglory-heros.git"
+    "url": "git://github.com/pchw/vainglory-data.git"
   },
   "keywords": [
     "vainglory"
@@ -16,9 +16,9 @@
   "author": "pchw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pchw/vainglory-heros/issues"
+    "url": "https://github.com/pchw/vainglory-data/issues"
   },
-  "homepage": "https://github.com/pchw/vainglory-heros",
+  "homepage": "https://github.com/pchw/vainglory-data",
   "dependencies": {
     "coffee-script": "^1.10.0"
   }
