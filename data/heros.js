@@ -1,94 +1,72 @@
 module.exports = [
   {
-    key: "adagio"
+    key: "adagio",
     name: "アダージオ"
-  }
-  {
-    key: "ardan"
+  }, {
+    key: "ardan",
     name: "アーダン"
-  }
-  {
-    key: "catherine"
+  }, {
+    key: "catherine",
     name: "キャサリン"
-  }
-  {
-    key: "celeste"
+  }, {
+    key: "celeste",
     name: "セレス"
-  }
-  {
-    key: "glaive"
+  }, {
+    key: "glaive",
     name: "グレイヴ"
-  }
-  {
-    key: "joule"
+  }, {
+    key: "joule",
     name: "ジュール"
-  }
-  {
-    key: "koshka"
+  }, {
+    key: "koshka",
     name: "コシュカ"
-  }
-  {
-    key: "krul"
+  }, {
+    key: "krul",
     name: "クラル"
-  }
-  {
-    key: "petal"
+  }, {
+    key: "petal",
     name: "ペタル"
-  }
-  {
-    key: "ringo"
+  }, {
+    key: "ringo",
     name: "リンゴ"
-  }
-  {
-    key: "saw"
+  }, {
+    key: "saw",
     name: "ソー"
-  }
-  {
-    key: "skaarf"
+  }, {
+    key: "skaarf",
     name: "スカーフ"
-  }
-  {
-    key: "taka"
+  }, {
+    key: "taka",
     name: "タカ"
-  }
-  {
-    key: "vox"
+  }, {
+    key: "vox",
     name: "ヴォックス"
-  }
-  {
-    key: "fortress"
+  }, {
+    key: "fortress",
     name: "フォートレス"
-  }
-  {
-    key: "rona"
+  }, {
+    key: "rona",
     name: "ロナ"
-  }
-  {
-    key: "skye"
+  }, {
+    key: "skye",
     name: "スカイ"
-  }
-  {
-    key: "phinn"
+  }, {
+    key: "phinn",
     name: "フィン"
-  }
-  {
-    key: "blackfeather"
+  }, {
+    key: "blackfeather",
     name: "ブラックフェザー"
-  }
-  {
-    key: "kestrel"
+  }, {
+    key: "kestrel",
     name: "ケストレル"
-  }
-  {
-    key: "reim"
+  }, {
+    key: "reim",
     name: "ライム"
-  }
-  {
-    key: "ozo"
+  }, {
+    key: "ozo",
     name: "オゾ"
-  }
-  {
-    key: "alpha"
+  }, {
+    key: "alpha",
     name: "アルファ"
   }
-]
+];
